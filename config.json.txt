@@ -1,0 +1,10 @@
+JSON
+{
+&quot;system&quot;: {
+&quot;system_title&quot;: &quot;App 2.0&quot;,
+&quot;system_version&quot;: &quot;2.5&quot;
+},
+&quot;settings&quot;: {
+&quot;status&quot;: &quot;WARNING&quot;
+}
+}
